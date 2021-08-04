@@ -1,4 +1,4 @@
-![Header](https://raw.githubusercontent.com/MartinHeinz/MaxNankivell/MaxNankivell/Max%20Nankivell.png "Header")
+![Header](https://github.com/maxnankivell/maxnankivell/blob/main/Max%20Nankivell.png?raw=true "Header")
 
 - 👋 Hi, I’m @maxnankivell
 - 👀 I’m interested in ...
