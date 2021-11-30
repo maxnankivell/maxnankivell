@@ -5,5 +5,5 @@
 Im currently in my 2nd year of software engineering at The University of Auckland. I'm into programming, 3D printing and almost any game.
 
 - 👨‍💻 I'm currently working on a program that automates combat for a board game called Twilight Imperium.
-- 📖 I'm currently learning to code in Python through Udemy.
+# - 📖 I'm currently learning to code in Python through Udemy.
 - 💬 You can contact me through my social media links.
