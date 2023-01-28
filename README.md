@@ -1,3 +1,5 @@
+![Hello There](https://giphy.com/embed/xTiIzJSKB4l7xTouE8)
+
 ![Header](https://github.com/maxnankivell/maxnankivell/blob/main/Max%20Nankivell.png?raw=true "Header")
 # Hi there &#128075;
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white "Linkedin")](https://www.linkedin.com/in/max-nankivell-767884218)
